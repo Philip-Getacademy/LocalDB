@@ -1,2 +1,0 @@
-# SushiShop
- Humble Sushi Shop
