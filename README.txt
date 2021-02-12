@@ -1,4 +1,7 @@
 ﻿
+ 
+Humble C# Commandline application that creates and deletes a local MDF DB
+ 
 =============================================
     
     Disclaimer : 
